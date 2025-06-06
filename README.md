@@ -1,1 +1,1 @@
-# 1.retail_sale_data
+ml and data analysis basic projects
